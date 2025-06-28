@@ -1,8 +1,6 @@
 
 # **INSTRUCCIONES de la MINISHELL**
 
-Trabajo de la asignatura Sistemas Operativos. Realizado el 1º semestre del curso 2024-2025.
-
 Guia para la compilación y el uso de la minishell en sus modos interactivo y fichero de comandos.
 
 ## **Instrucciones de Construcción**
